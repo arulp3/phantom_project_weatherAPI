@@ -1,0 +1,9 @@
+.custom_sub_card {
+  width: 10rem;
+  margin: 2rem;
+  height: 11rem;
+}
+.custom_sub_card img {
+  width: -moz-fit-content;
+  width: fit-content;
+}/*# sourceMappingURL=index.css.map */

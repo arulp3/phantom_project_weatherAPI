@@ -1,0 +1,35 @@
+.custom_card{
+    width: 20rem;
+    margin: 1rem;
+    img{
+        width: fit-content;
+    }
+    // height: 10rem;
+}
+
+.rain{
+    background-image: url("../../../assets/rain_anim.avif");
+}
+
+.sun{
+    background-image: url("../../../assets/sunny_anim.avif");
+    background-position: center;
+
+}
+
+.cloudy{
+    background-image: url("../../../assets/cloudy.avif");
+    background-position: center;
+
+}
+.mist{
+    background-image: url("../../../assets/mist.avif");
+    background-position: center;
+    //  h5{
+    //     color: white;
+
+    //  }
+    //  p{
+    //     color : white
+    //  }
+}

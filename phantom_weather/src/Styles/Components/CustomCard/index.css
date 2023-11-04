@@ -1,0 +1,27 @@
+.custom_card {
+  width: 20rem;
+  margin: 1rem;
+}
+.custom_card img {
+  width: -moz-fit-content;
+  width: fit-content;
+}
+
+.rain {
+  background-image: url("../../../assets/rain_anim.avif");
+}
+
+.sun {
+  background-image: url("../../../assets/sunny_anim.avif");
+  background-position: center;
+}
+
+.cloudy {
+  background-image: url("../../../assets/cloudy.avif");
+  background-position: center;
+}
+
+.mist {
+  background-image: url("../../../assets/mist.avif");
+  background-position: center;
+}/*# sourceMappingURL=index.css.map */
